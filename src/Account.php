@@ -9,7 +9,7 @@ class Account extends Resources
      */
     protected $sender;
 
-    private $endpoint = 'images';
+    private $endpoint = 'account';
 
     public function get()
     {
