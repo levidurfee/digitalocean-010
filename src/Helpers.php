@@ -1,6 +1,6 @@
 <?php
 
-namespace wappr\digitalocean\Helpers;
+namespace wappr\digitalocean;
 
 class Helpers
 {
