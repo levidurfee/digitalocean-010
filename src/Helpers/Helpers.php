@@ -2,7 +2,7 @@
 
 namespace wappr\digitalocean\Helpers;
 
-class DropletsHelper
+class Helpers
 {
     /* regions */
     const REGION_NYC1 = 'nyc1';
